@@ -10,8 +10,6 @@ A simple library management system implemented in Python using Pandas for data h
 
 ## Usage
 
-## Usage
-
 The library management system uses an Excel file (`books.xlsx`) to store information about the library's books. Here's how to use the system:
 
 1. **Search for Books**: Enter the title of a book to search for it in the library's collection. The system will display details about the book, including its author and whether it's currently borrowed.
