@@ -25,7 +25,7 @@ The Excel file acts as the persistent storage for the library's data, allowing u
 
 ## Examples
 
-![Library Management System](screenshots/library_management_system.png)
+![Library Management System](library-management-system.png)
 
 ## Contributing
 
